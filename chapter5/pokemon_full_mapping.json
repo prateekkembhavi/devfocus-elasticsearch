@@ -1,0 +1,19 @@
+﻿{
+    "pokemon": {
+        "properties": {
+            "ndex": {
+                "type": "integer"
+            },
+            "name": {
+                "type": "string"
+            },
+            "date_captured": {
+                "type": "date",
+                "format": "YYYY-MM-dd"
+            },
+            "has_evolution": {
+                "type": "boolean"
+            }
+        }
+    }
+}
